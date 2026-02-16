@@ -60,6 +60,35 @@ Sample ML Programs
 python version
 
 
+www.kaushalya.tech
+click git link
+click repositories
+xai-global-feb-2026
+
+https://github.com/raghuprasadks/xai-global-feb-2026.git
+
+git clone https://github.com/raghuprasadks/xai-global-feb-2026.git
+ 
+ML programs
+Steps:
+1. Open googlecolab
+2. Upload 1_linear_regression.ipynb
+
+File->upload notebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
 
