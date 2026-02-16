@@ -59,8 +59,8 @@ Sample ML Programs
 
 python version
 
-
 www.kaushalya.tech
+
 click git link
 click repositories
 xai-global-feb-2026
@@ -76,7 +76,7 @@ Steps:
 
 File->upload notebook
 
-
+I want to understand linear regression with a publicly available dataset. can you get me the code
 
 
 

@@ -1,0 +1,2 @@
+https://www.youtube.com/watch?v=2ZymBPeZO7k
+https://github.com/Mayurji/Explore-Libraries/blob/main/model-interpretabiilty/shap/nlp-shap.ipynb
