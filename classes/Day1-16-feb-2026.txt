@@ -1,0 +1,71 @@
+Agenda:
+1. Introduction to XAI - eXplainable AI
+2. Introduction to Artificial Intelligence
+Natural Intelligence - human like intelligence
+mimic Cognitive function of a human - AI
+
+1950 ...
+2026
+
+1. Digitized data
+2. Computing power
+3. Algorithms/open source/tools
+
+AI - > Machine Learning -> Deep learning
+
+ML - identify pattern in the data
+predict/classification/grouping
+
+Supervised
+Labelled data - 
+Image of a fruit
+grocery - Rice - Oil,Dal
+
+Training and Testing
+
+Un-supervised
+Data is not labelled
+Clustering/Grouping
+
+Re-inforcement
+
+
+data
+
+regression - predicting price of a stock
+classification
+identifying a email as spam or not spam - binary
+identifying a digit  - multi class
+clustering - grouping
+
+Deep Learning - mimic - biological neurons
+neural network
+
+Generative AI - generate text,image,audio,video
+summarization,question-answer
+
+LLM - Large Language Model
+OpenAI GPT
+Google - Gemini
+chatgpt - application built on LLM
+
+
+black box
+white box
+
+Sample ML Programs
+
+1. Linear Regression
+
+python version
+
+
+
+ 
+
+
+
+
+
+
+
