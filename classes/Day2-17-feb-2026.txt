@@ -1,0 +1,97 @@
+Agenda:
+1. Introduction to eXplainable AI - XAI
+AI - mimicking cognitive function of
+a human
+
+ML - Machine Learning
+predict a value - regression
+classify - email - spam/inbox
+cluster
+Supervised ML
+Labelled Data
+Unsupervised ML
+
+Re-inforcement ML
+
+Deep Learning
+ANN,CNN,RNN
+
+Artificial Neural Network
+Convolutional Neural Network
+Recurrent Neural Network
+
+Natural Language Processing
+Generative AI
+Large Language Model (LLM's)
+generate text,audio,video,question answering
+
+Black Box
+White Box
+Unit testing
+
+Machine Learning - Programs
+
+Regression
+Classification
+
+Neural Networks
+ANN
+CNN
+RNN
+
+
+Simulation of Deep learning
+playground.tensorflow.org
+
+git clone <>
+git pull
+
+SHAP
+
+D:\kaushalya\consultancy\nhce\2026\nhce\aiml\xaiworkshop\programs\xai
+
+1_nhce_xai_shapregression
+
+California housing price
+
+https://www.kaggle.com/datasets/camnugent/california-housing-prices?resource=download
+
+Assignment:
+
+Gemini
+
+Create a machine learning model using diabetic publicly available dataset
+use shap to explain the model
+
+https://shap.readthedocs.io/
+
+transformers is a library from huggingface
+
+placeholder for opensource models (LLM's,
+datasets,spacer)
+GPT 
+text generation
+summarization
+image generation
+sentiment analysis
+audio/video generation
+
+https://huggingface.co/
+https://huggingface.co/spaces
+https://huggingface.co/spaces/UNESCO/nllb
+https://github.com/raghuprasadks/xai-global-feb-2026/tree/main/programs/xai
+https://shap.readthedocs.io/
+https://github.com/shap/shap/tree/master/notebooks
+
+
+
+
+
+
+
+
+
+
+
+
+
