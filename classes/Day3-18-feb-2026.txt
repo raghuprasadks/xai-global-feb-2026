@@ -26,4 +26,40 @@ pip install numpy==2.3
 Python - Streamlit 
 
 
+www.kaushalya.tech
+git
+repositories
+https://github.com/raghuprasadks/xai-global-feb-2026
+download streamlit_shap.py from programs/huggingface folder
+pip install torch transformers pandas huggingface_hub python-dotenv.
+
+
+create an account with huggingface.co
+login
+Access Tokens
+create a new access token
+streamlit run streamlit_shap.py
+
+To deploy
+
+click on spaces
+New Space
+give name - xaidemoapp
+click on docker
+select streamlit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

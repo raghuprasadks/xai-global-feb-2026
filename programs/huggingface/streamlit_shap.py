@@ -3,6 +3,9 @@ import streamlit as st
 import pandas as pd
 from huggingface_hub import InferenceClient
 import transformers
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 MODEL_NAME = "nateraw/bert-base-uncased-emotion"
@@ -25,8 +28,7 @@ def get_local_pipeline():
 
 @st.cache_resource
 def get_hf_client():
-    hf_token="hftoken"
-    #token = os.environ.get("HF_TOKEN")
+    hf_token = os.getenv("HF_TOKEN")
     if not hf_token:
         return None
     return InferenceClient(provider="hf-inference", api_key=hf_token)
