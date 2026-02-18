@@ -1,0 +1,29 @@
+Agenda:
+1. Setting up environment on local system to 
+run the xai program
+
+2. create demoxai folder 
+3. open demoxai from visual studio code
+4. create a virtual environment
+with in demoxai folder
+open terminal
+python -m venv myenv
+activate virual environment
+.\myenv\Scripts\activate
+5. Install jupyter notebook
+pip install notebook
+pip install scikit-learn pandas matplotlib shap
+
+Explainable AI (XAI) from vizuara
+https://youtu.be/IIgTulcEUFw?si=d3xfZoMMCHErrmrL
+https://shap.readthedocs.io/
+
+pip uninstall numpy
+pip install "numpy<2"
+
+pip install numpy==2.3
+
+Python - Streamlit 
+
+
+
