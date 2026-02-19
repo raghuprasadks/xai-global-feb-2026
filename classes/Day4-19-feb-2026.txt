@@ -1,0 +1,33 @@
+1. Introduction to eXplainable AI - XAI
+AI
+ML
+Deep Learning
+Neural Networks
+Generative AI
+Regression,classification,clustering
+text generation,audio,video,chatbot,translation
+Black box
+White box
+
+blood test - diabetic
+bmi - 
+glucose
+stress
+food habits 
+genetics
+excercise
+
+1. Create course topics for xai course
+2. create course content
+3. coding examples
+4. mcq's
+5. pdf or word document
+www.kaushalya.tech
+https://ekaushalya.kaushalya.tech/
+MERN 
+RAG - Retrieval Augmented Generation
+
+
+
+
+
