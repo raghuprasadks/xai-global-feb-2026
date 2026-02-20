@@ -1,0 +1,54 @@
+Agenda:
+1.End to end programming 
+2.Building a custom chatbot using
+llm
+2. Cohere API
+3. Deploy chatbot on huggingface
+spacer cloud environment
+
+LLM - transformer architecture
+XAI
+next word prediction
+My country is 
+My country is India
+
+token
+My - 101
+country - 3000
+is - 20
+india - 4500
+
+embedding -vector
+my - [1.5,2.3,4.5]
+country - [1.6,2.5,4.6]
+positional embedding
+self attention mechanism
+2017 - Attention is all you need
+google researchers
+
+https://poloclub.github.io/transformer-explainer/
+RNN
+
+A doctor has suggested me to eat a apple every day.
+I like apple products.
+
+context
+
+hands - on
+1. https://cohere.com/
+sign up and login
+create a api key
+2. create llm folder
+3. create and activate a virtual environment
+4. pip install cohere
+5. use your api key in the program
+6. execute the program
+python 1-cohere-gettingstarted.py
+
+
+
+
+
+
+
+
