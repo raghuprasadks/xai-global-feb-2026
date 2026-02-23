@@ -1,0 +1,11 @@
+Agenda:
+1. Recap
+2. XAI methods
+SHAP - game theory
+LIME -
+1_nhce_xai_lime_regression.ipynb
+2_nhce_xai_lime_classification.ipynb
+
+3.Deploying end to end module on
+huggingface spacer
+4. Feedback and mcq test
